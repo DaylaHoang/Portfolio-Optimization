@@ -1,4 +1,4 @@
-# **Portfolio Optimization Using Python**
+# **Portfolio Optimization Project**
 
 This project uses Python to fetch historical stock data, compute risk/return metrics, and optimize portfolio weights to maximize the Sharpe Ratio of a stock portfolio.
 
